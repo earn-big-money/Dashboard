@@ -5,7 +5,7 @@ layout: default
 # [](#TOC)目录
 
 &nbsp;&nbsp; 
-
+* 0、[organization 使用方法](00-projects)
 * 1、[About 项目规划](01-about)
 * 2、[Team profile 团队组建](02-team-profile)
 * 3、[Investigation 项目前期调研](03-investigation)
