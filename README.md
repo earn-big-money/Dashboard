@@ -69,3 +69,5 @@ Syntax highlighted code block
 因为是Dashboard，没有collaboration的权限。
 
 只能通过fork到本地，进行需要的修改，修改并且update后可以通过自己的fork repo中的new pull request来与base repo中的master branch进行请求合并，此时会需要对于可能存在的冲突进行修改，没有冲突后即可以提交pull request，再被repo 的master review后就可以被merge到master branch中。
+
+[offical help infomation](https://help.github.com/en/articles/creating-a-pull-request)
