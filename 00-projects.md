@@ -15,3 +15,7 @@
  其中涉及到的操作就是如果自己想做里面的事，就把里面的card移动到in process里面，做完了就拉到done里面。
 
  ![示例](./assets/kanban02.PNG)
+
+
+
+ [怎么使用看板的官方文档](https://help.github.com/en/articles/about-project-boards)
