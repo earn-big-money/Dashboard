@@ -58,4 +58,4 @@
 
 ### 交易逻辑
 
-![交易的逻辑 （通知|问卷）](./assets/trade_logic.jpg)
+![交易的逻辑](./assets/trade_logic.jpg)
