@@ -30,7 +30,4 @@
 5. 下次会议讨论产品调研安排，时间地点见群消息
 6. 思维导图  
 （根据下面链接简单做一个图）
-https://github.com/HYPJUDY/movie-ticket-and-service-website/blob/master/documents/91_meet_recording.md
-
-
 ![会议思维导图](./assets/firstmeeting.png)
