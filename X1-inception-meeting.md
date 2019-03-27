@@ -31,3 +31,4 @@
 6. 思维导图  
 （根据下面链接简单做一个图）
 https://github.com/HYPJUDY/movie-ticket-and-service-website/blob/master/documents/91_meet_recording.md
+![会议思维导图](./assets/first)
