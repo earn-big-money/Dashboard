@@ -36,8 +36,8 @@ layout: default
     - 8.4 [部署文档](08-04-deployment-doc)
 * X1 meet_recording
     - [Inception meeting (2019/03/09)](X1-inception-meeting)
-    - [Survey arrangement (2019/03/13)](X1-survey-meeting)
-    - [Iteration 2 meeting (2018/05/09)](X1-iteration2-meeting)
+    - [Survey arrangement meeting (2019/03/13)](X1-survey-meeting)
+    - [Initial design meeting (2018/03/20)](X1-initial-design-meeting)
     - [Iteration 3 meeting (2018/06/30)](X1-iteration3-meeting)
 * [X2 Tech/Work Report](X2-techwork-report)
 * [X3 Final Report](X3-final-report)
