@@ -38,7 +38,7 @@ layout: default
     - [Inception meeting (2019/03/09)](X1-inception-meeting)
     - [Survey arrangement meeting (2019/03/13)](X1-survey-meeting)
     - [Initial design meeting (2019/03/20)](X1-initial-design-meeting)
-    - [Iteration 1 meeting (2019/03/27)](X1-iteration-1)
+    - [Detail specific  meeting (2019/04/03)](X1-detail-specific-meeting)
 * [X2 Tech/Work Report](X2-techwork-report)
 * [X3 Final Report](X3-final-report)
     - [15331253-ECer23](https://www.jianshu.com/p/edae2a252471)
