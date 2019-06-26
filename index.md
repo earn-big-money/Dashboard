@@ -41,7 +41,7 @@ layout: default
     - [Initial design meeting (2019/03/20)](X1-initial-design-meeting)
     - [Detail specific  meeting (2019/04/03)](X1-detail-specific-meeting)
 * [X2 Tech/Work Report](X2-techwork-report)
-    - [vue重新渲染子组件](https://blog.csdn.net/DDghsot/article/details/93479029)
+    - [16340090-DDghost-vue重新渲染子组件](https://blog.csdn.net/DDghsot/article/details/93479029)
 * [X3 Final Report](./documents/final_report.md)
     - [16340090-DDghost](https://blog.csdn.net/DDghsot/article/details/93782665)
 
