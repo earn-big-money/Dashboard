@@ -41,12 +41,10 @@ layout: default
     - [Initial design meeting (2019/03/20)](X1-initial-design-meeting)
     - [Detail specific  meeting (2019/04/03)](X1-detail-specific-meeting)
 * [X2 Tech/Work Report](X2-techwork-report)
+    - [vue重新渲染子组件](https://blog.csdn.net/DDghsot/article/details/93479029)
 * [X3 Final Report](./documents/final_report.md)
-    - [15331253-ECer23](https://www.jianshu.com/p/edae2a252471)
-    - [15331238-BeAShper](https://blog.csdn.net/beashaper_/article/details/80871901)
-    - [15331229-longjj](https://www.zybuluo.com/longj/note/1198045)
-    - [15331200-YungLinjy](https://blog.csdn.net/yung_lin/article/details/80869708)
-    - [15331251-Arururururu](https://github.com/Arururururu/SAD/blob/master/X3-final-report.md)
+    - [16340090-DDghost](https://blog.csdn.net/DDghsot/article/details/93782665)
+
 * XX 建模练习
     - [XX1 Google Tranlate 应⽤](XX1-google-translate-app)
     - [XX2 建模要求](XX2-modeling-requirements)
