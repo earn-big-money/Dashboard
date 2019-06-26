@@ -19,5 +19,5 @@
 
 下面是活动图。
 
-![用户](USECASE/accepecter.PNG)
-![发布者](USECASE/publisher.PNG)
+![用户](USECASES/accepecter.PNG)
+![发布者](USECASES/publisher.PNG)
