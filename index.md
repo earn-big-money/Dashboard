@@ -40,7 +40,8 @@ layout: default
     - [Survey arrangement meeting (2019/03/13)](X1-survey-meeting)
     - [Initial design meeting (2019/03/20)](X1-initial-design-meeting)
     - [Detail specific  meeting (2019/04/03)](X1-detail-specific-meeting)
-* [X2 Tech/Work Report](X2-techwork-report)
+* X2 Tech/Work Report
+    - [16350027-huangjundashuaige] (./)
 * [X3 Final Report](./documents/final_report.md)
     - [15331253-ECer23](https://www.jianshu.com/p/edae2a252471)
     - [15331238-BeAShper](https://blog.csdn.net/beashaper_/article/details/80871901)
