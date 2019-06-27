@@ -36,29 +36,17 @@ layout: default
     - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](08-03-relationship-between-ECB-framework-directory-design-logic-archit.md)
     - 8.4 [部署文档](08-04-deployment-doc.md)
 * X1 meet_recording
-<<<<<<< HEAD
-    - [Inception meeting (2019/03/09)](X1-inception-meeting)
-    - [Survey arrangement meeting (2019/03/13)](X1-survey-meeting)
-    - [Initial design meeting (2019/03/20)](X1-initial-design-meeting)
-    - [Detail specific  meeting (2019/04/03)](X1-detail-specific-meeting)
-* X2 Tech/Work Report
-    - [16350027-huangjundashuaige] (./)
-=======
     - [Inception meeting (2019/03/09)](X1-inception-meeting.md)
     - [Survey arrangement meeting (2019/03/13)](X1-survey-meeting.md)
     - [Initial design meeting (2019/03/20)](X1-initial-design-meeting.md)
     - [Detail specific  meeting (2019/04/03)](X1-detail-specific-meeting.md)
-* [X2 Tech/Work Report](X2-techwork-report)
+* X2 Tech/Work Report
+    - [16350027-huangjundashuaige-世界第五大外包公司(CGI group inc)能够做出来多烂的网站，通过系分的课程设计我对于人机交互和团队合作的几个总结](https://blog.csdn.net/huangjundashuaige/article/details/93202174)
     - [16340090-ddghost-vue重新渲染子组件](https://blog.csdn.net/DDghsot/article/details/93479029)
     - [16340089-ZTao-z-简单SQL语句拼接模块](https://blog.csdn.net/think_A_lot/article/details/93500799)
     - [16340089-ZTao-z-Nodejs与Mysql交互实现](https://blog.csdn.net/think_A_lot/article/details/93498737)
     - [16340089-ZTao-z-使用PM2部署Nodejs服务器](https://blog.csdn.net/think_A_lot/article/details/93792908)
->>>>>>> 47d2645c476c9f4e0979b3e2e6069ed6c8951438
 * [X3 Final Report](./documents/final_report.md)
+    - [16350027-huangjundashuaige](https://blog.csdn.net/huangjundashuaige/article/details/93839189)
     - [16340090-ddghost](https://blog.csdn.net/DDghsot/article/details/93782665)
     - [16340089-ZTao-z](https://blog.csdn.net/think_A_lot/article/details/93478393)
-
-* XX 建模练习
-    - [XX1 Google Tranlate 应⽤](XX1-google-translate-app)
-    - [XX2 建模要求](XX2-modeling-requirements)
-    - [XX3 建模者答案与评价](XX3-modeling-answer)
