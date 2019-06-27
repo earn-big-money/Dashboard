@@ -42,8 +42,12 @@ layout: default
     - [Detail specific  meeting (2019/04/03)](X1-detail-specific-meeting.md)
 * [X2 Tech/Work Report](X2-techwork-report)
     - [16340090-ddghost-vue重新渲染子组件](https://blog.csdn.net/DDghsot/article/details/93479029)
+    - [16340089-ZTao-z-简单SQL语句拼接模块](https://blog.csdn.net/think_A_lot/article/details/93500799)
+    - [16340089-ZTao-z-Nodejs与Mysql交互实现](https://blog.csdn.net/think_A_lot/article/details/93498737)
+    - [16340089-ZTao-z-使用PM2部署Nodejs服务器](https://blog.csdn.net/think_A_lot/article/details/93792908)
 * [X3 Final Report](./documents/final_report.md)
     - [16340090-ddghost](https://blog.csdn.net/DDghsot/article/details/93782665)
+    - [16340089-ZTao-z](https://blog.csdn.net/think_A_lot/article/details/93478393)
 
 * XX 建模练习
     - [XX1 Google Tranlate 应⽤](XX1-google-translate-app)
