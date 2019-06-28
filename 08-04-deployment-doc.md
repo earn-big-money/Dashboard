@@ -46,4 +46,16 @@ cnpm解决了国内某些依赖包使用npm无法安装或者安装过慢的问�
 
 
 
-... 后端
+#### 后端部署文档
+
+##### 准备工作
+
+安装nodejs和mysql
+
+##### 本地windows/linux系统：
+
+npm install 一键部署
+
+##### 服务器部署：
+
+和本地部署类似，但如果MySQL和后端服务器在同一台主机上，要把config Connection里面的online数据库的ip改成localhost。
