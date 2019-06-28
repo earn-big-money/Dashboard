@@ -46,7 +46,7 @@ layout: default
     - [16340089-ZTao-z-简单SQL语句拼接模块](https://blog.csdn.net/think_A_lot/article/details/93500799)
     - [16340089-ZTao-z-Nodejs与Mysql交互实现](https://blog.csdn.net/think_A_lot/article/details/93498737)
     - [16340089-ZTao-z-使用PM2部署Nodejs服务器](https://blog.csdn.net/think_A_lot/article/details/93792908)
-    - [16340108-用OpenAPI3在SwaggerHub编写API接口文档](https://blog.csdn.net/m0_37779608/article/details/93935931)
+    - [16340108-huntingwolf320-用OpenAPI3在SwaggerHub编写API接口文档](https://blog.csdn.net/m0_37779608/article/details/93935931)
 * [X3 Final Report](./documents/final_report.md)
     - [16350027-huangjundashuaige](https://blog.csdn.net/huangjundashuaige/article/details/93839189)
     - [16340090-ddghost](https://blog.csdn.net/DDghsot/article/details/93782665)
