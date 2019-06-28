@@ -3,7 +3,7 @@
 ##### 使用cnpm安装的部分均可用npm安装替代。使用cnpm是因为cnpm使用国内镜像资源，下载安装依赖包较块。
 
 1. cnpm install -g vue-cli（前端依靠vue来实现，所以在运行项目之前，首先要安装vue）
-2. cd Frontend/whatsup（进入项目文件夹，在这里运行项目启动命令）
+2. cd Frontend/earn-big-money（进入项目文件夹，在这里运行项目启动命令）
 3. cnpm install（一键安装项目运行所需要的所有依赖包）
 4. npm run dev（项目启动，浏览器自动跳出页面）
 
@@ -46,4 +46,16 @@ cnpm解决了国内某些依赖包使用npm无法安装或者安装过慢的问�
 
 
 
-... 后端
+#### 后端部署文档
+
+##### 准备工作
+
+安装nodejs和mysql
+
+##### 本地windows/linux系统：
+
+npm install 一键部署
+
+##### 服务器部署：
+
+和本地部署类似，但如果MySQL和后端服务器在同一台主机上，要把config Connection里面的online数据库的ip改成localhost。
