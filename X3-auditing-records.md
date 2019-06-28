@@ -20,6 +20,6 @@
 | 16340090 | ddghost   |  设计审计: UI审计    |    https://github.com/code-flows-in-you/Dashboard/issues/5      |
 | 16340089 | ZTao-z    |  设计审计：UI方面    |    https://github.com/code-flows-in-you/Dashboard/issues/4       |
 |   16350027   |  huangjundashuaige         | 设计审计：架构设计     |   https://github.com/code-flows-in-you/Dashboard/issues/8        |
-|   16340212   |     sherluck314      |      |     设计审计: UI审计      | https://github.com/sysu-change/Dashboard/issues/4
+|   16340212   |     sherluck314      |    设计审计: UI审计  |       https://github.com/sysu-change/Dashboard/issues/4    | 
 |      |           |      |           |
 |      |           |      |           |
