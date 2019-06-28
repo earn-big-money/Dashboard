@@ -7,7 +7,7 @@ layout: default
 &nbsp;&nbsp; 
 * 0、[checklist 要求提交的文档](check-list)
 * 0、[organization 使用方法](00-projects)
-* 1、About 项目规划](01-about)
+* 1、[About 项目规划](01-about)
 * 2、[Team profile 团队组建](02-team-profile.md)
 * 3、[Investigation 项目前期调研](03-investigation.md)
 * 4、[Vision 项目愿景](04-vision.md)
@@ -18,10 +18,8 @@ layout: default
     - 6.3 [Domian Model 领域模型](06-03-domain-model.md)
     - 6.4 [State Model 状态模型](06-04-state-model.md)
     - 6.5 [System Sequence Diagram 功能模型](06-05-system-sequence-diagram.md)
-    - 6.6 Supplementary Requirements 补充性说明
 * 7、Design 设计
-    - 7.1 UI design UI 设计
-        - [XX 用例 UI 设计](07-01-01-XX-ui-design.md)
+    - 7.1 [UI design UI 设计](07-01-01-XX-ui-design.md)
     - 7.2 Database design 数据库设计
         - 7.2.1 [用户及权限系统数据库设计](07-02-01-database-design.md)
         - 7.2.2 [数据库ER模型图](07-02-02-database-er-model)
