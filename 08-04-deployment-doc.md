@@ -3,7 +3,7 @@
 ##### 使用cnpm安装的部分均可用npm安装替代。使用cnpm是因为cnpm使用国内镜像资源，下载安装依赖包较块。
 
 1. cnpm install -g vue-cli（前端依靠vue来实现，所以在运行项目之前，首先要安装vue）
-2. cd Frontend/whatsup（进入项目文件夹，在这里运行项目启动命令）
+2. cd Frontend/earn-big-money（进入项目文件夹，在这里运行项目启动命令）
 3. cnpm install（一键安装项目运行所需要的所有依赖包）
 4. npm run dev（项目启动，浏览器自动跳出页面）
 
