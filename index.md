@@ -22,7 +22,7 @@ layout: default
     - 7.1 [UI design UI 设计](07-01-01-XX-ui-design.md)
     - 7.2 Database design 数据库设计
         - 7.2.1 [用户及权限系统数据库设计](07-02-01-database-design.md)
-        - 7.2.2 [数据库ER模型图](07-02-02-database-er-model)
+        - 7.2.2 [数据库ER模型图](07-02-02-database-er-model.md)
         - 7.2.3 XX子系统数据课设计
         - 7.2.x 第三方数据评审结果
     - 7.3 [API 设计](07-03-API)
