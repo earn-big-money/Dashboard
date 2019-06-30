@@ -53,6 +53,8 @@ layout: default
     - [16340212-sherluck314-使用postman进行后端API的测试](https://blog.csdn.net/jining11/article/details/93596246)
     - [16340212-sherluck314-mysql第一次使用](https://blog.csdn.net/jining11/article/details/89102398)
     - [16340218-wkfdb-Vue中嵌入JQuery](https://blog.csdn.net/qq_36303832/article/details/93907004)
+    - [16340077-wei49-Vue使用导航守卫管理页面跳转以及同步前后端登录状态](https://blog.csdn.net/tmhf_cc/article/details/94326609)
+    - [16340135-EmilyBlues-使用Axure完成交互式UI设计](https://blog.csdn.net/EmilyBluse/article/details/94340459)
 * X5 Final Report
     - [小组贡献与分工](./documents/小组分工与贡献率说明.md)
     - [16350027-huangjundashuaige](https://blog.csdn.net/huangjundashuaige/article/details/93839189)
@@ -61,3 +63,6 @@ layout: default
     - [16340108-huntingwolf320](https://blog.csdn.net/m0_37779608/article/details/93991350)
     - [16340212-sherluck314](https://blog.csdn.net/jining11/article/details/93791994)
     - [16340218-wkfdb](https://blog.csdn.net/qq_36303832/article/details/93619024)
+    - [16340088-wei49](https://blog.csdn.net/tmhf_cc/article/details/94331056)
+    - [16340135-EmilyBlues](https://blog.csdn.net/EmilyBluse/article/details/94325486)
+    - [16340094-qingyunhuohuo](https://blog.csdn.net/qingyunhuohuo1/article/details/94358114)
