@@ -23,8 +23,7 @@ layout: default
     - 7.2 Database design 数据库设计
         - 7.2.1 [用户及权限系统数据库设计](07-02-01-database-design.md)
         - 7.2.2 [数据库ER模型图](07-02-02-database-er-model.md)
-        - 7.2.3 XX子系统数据课设计
-        - 7.2.x 第三方数据评审结果
+        - 7.2.3 [第三方数据评审结果](https://github.com/earn-big-money/Dashboard/issues)
     - 7.3 [API 设计](07-03-API)
     - 7.4 [软件架构文档](07-04-software-architecture-document.md)
     - 7.5 [用例设计](07-05-usecase-design.md)
