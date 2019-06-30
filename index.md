@@ -23,14 +23,13 @@ layout: default
     - 7.2 Database design 数据库设计
         - 7.2.1 [用户及权限系统数据库设计](07-02-01-database-design.md)
         - 7.2.2 [数据库ER模型图](07-02-02-database-er-model.md)
-        - 7.2.3 XX子系统数据课设计
-        - 7.2.x 第三方数据评审结果
+        - 7.2.3 [第三方数据评审结果](https://github.com/earn-big-money/Dashboard/issues)
     - 7.3 [API 设计](07-03-API)
     - 7.4 [软件架构文档](07-04-software-architecture-document.md)
     - 7.5 [用例设计](07-05-usecase-design.md)
 * 8、生产规范与指南
-    - 8.1 代码规范
-    - 8.2 REST API设计规范
+    - 8.1 [代码规范](08-01-CodeRule.md)
+    - 8.2 [REST API设计规范](08-02-RESTapi_standard.md)
     - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](08-03-relationship-between-ECB-framework-directory-design-logic-archit.md)
     - 8.4 [部署文档](08-04-deployment-doc.md)
 * 9、[测试文档](./test/后端API测试报告.md)
@@ -54,7 +53,11 @@ layout: default
     - [16340212-sherluck314-使用postman进行后端API的测试](https://blog.csdn.net/jining11/article/details/93596246)
     - [16340212-sherluck314-mysql第一次使用](https://blog.csdn.net/jining11/article/details/89102398)
     - [16340218-wkfdb-Vue中嵌入JQuery](https://blog.csdn.net/qq_36303832/article/details/93907004)
+<<<<<<< HEAD
     - 
+=======
+    - [16340077-wei49-Vue使用导航守卫管理页面跳转以及同步前后端登录状态](https://blog.csdn.net/tmhf_cc/article/details/94326609)
+>>>>>>> b6e733d4079a5f8f23cbd06031c502a9eda10d42
 * X5 Final Report
     - [小组贡献与分工](./documents/小组分工与贡献率说明.md)
     - [16350027-huangjundashuaige](https://blog.csdn.net/huangjundashuaige/article/details/93839189)
@@ -63,4 +66,8 @@ layout: default
     - [16340108-huntingwolf320](https://blog.csdn.net/m0_37779608/article/details/93991350)
     - [16340212-sherluck314](https://blog.csdn.net/jining11/article/details/93791994)
     - [16340218-wkfdb](https://blog.csdn.net/qq_36303832/article/details/93619024)
+<<<<<<< HEAD
     - [16340135-EmilyBlues](https://blog.csdn.net/EmilyBluse/article/details/94325486)
+=======
+    - [16340088-wei49](https://blog.csdn.net/tmhf_cc/article/details/94331056)
+>>>>>>> b6e733d4079a5f8f23cbd06031c502a9eda10d42
