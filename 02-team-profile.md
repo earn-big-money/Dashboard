@@ -12,4 +12,4 @@
 |16340135|EmilyBlues|[https://github.com/EmilyBlues](https://github.com/EmilyBlues)|UI/UX设计师|负责网站整体界面设计|
 |16340089|ZTao-z|[https://github.com/ZTao-z](https://github.com/ZTao-z)|后台工程师、数据库DBA|搭建后端框架，建立数据库|
 |16340212|sherluck314|[https://github.com/sherluck314](https://github.com/sherluck314)|后台工程师、测试工程师|实现功能模块和测试|
-|16340108|hungtingwolf320|https://github.com/huntingwolf320|后台工程师,API设计师|设计API、实现API、测试功能|
+|16340108|hungtingwolf320|[https://github.com/huntingwolf320](https://github.com/huntingwolf320)|后台工程师,API设计师|设计API、实现API、测试功能|
