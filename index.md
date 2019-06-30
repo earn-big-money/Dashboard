@@ -30,7 +30,7 @@ layout: default
     - 7.5 [用例设计](07-05-usecase-design.md)
 * 8、生产规范与指南
     - 8.1 代码规范
-    - 8.2 REST API设计规范
+    - 8.2 [REST API设计规范](RESTapi_standard.md)
     - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](08-03-relationship-between-ECB-framework-directory-design-logic-archit.md)
     - 8.4 [部署文档](08-04-deployment-doc.md)
 * 9、[测试文档](./test/后端API测试报告.md)
