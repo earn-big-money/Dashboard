@@ -55,6 +55,7 @@ layout: default
     - [16340218-wkfdb-Vue中嵌入JQuery](https://blog.csdn.net/qq_36303832/article/details/93907004)
     - [16340077-wei49-Vue使用导航守卫管理页面跳转以及同步前后端登录状态](https://blog.csdn.net/tmhf_cc/article/details/94326609)
     - [16340135-EmilyBlues-使用Axure完成交互式UI设计](https://blog.csdn.net/EmilyBluse/article/details/94340459)
+    - [16340094-qingyunhuohuo-VUE如何实现页面的局部刷新](https://blog.csdn.net/qingyunhuohuo1/article/details/94358960)
 * X5 Final Report
     - [小组贡献与分工](./documents/小组分工与贡献率说明.md)
     - [16350027-huangjundashuaige](https://blog.csdn.net/huangjundashuaige/article/details/93839189)
