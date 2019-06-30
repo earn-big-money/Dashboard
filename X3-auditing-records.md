@@ -13,7 +13,7 @@
 |  16340218 | wkfdb  | 需求审计：活动图 | https://github.com/code-flows-in-you/Dashboard/issues/13 |
 |  16340135 | EmilyBlues  | 需求审计：用例图 |  https://github.com/code-flows-in-you/Dashboard/issues/15 |
 |  16340088 | wei49  | 需求审计：ER图 |  https://github.com/code-flows-in-you/Dashboard/issues/16 |
-|  16340094 | qingyunhuohuo |      |           |
+|  16340094 | qingyunhuohuo | 需求审计：用例图 | https://github.com/kesongyueproject/dashboard/issues/2#issue-462410767 |
 
 
 
