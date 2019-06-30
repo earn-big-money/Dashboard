@@ -4,7 +4,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>456</x>
+      <x>324</x>
       <y>276</y>
       <w>120</w>
       <h>36</h>
@@ -15,7 +15,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>504</x>
+      <x>372</x>
       <y>300</y>
       <w>84</w>
       <h>132</h>
@@ -29,7 +29,7 @@ has v</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>468</x>
+      <x>336</x>
       <y>540</y>
       <w>120</w>
       <h>108</h>
@@ -44,18 +44,18 @@ has v</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>456</x>
+      <x>324</x>
       <y>408</y>
       <w>120</w>
       <h>36</h>
     </coordinates>
-    <panel_attributes>主页</panel_attributes>
+    <panel_attributes>任务发布列表</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>516</x>
+      <x>384</x>
       <y>432</y>
       <w>84</w>
       <h>132</h>
@@ -69,7 +69,7 @@ has v</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>468</x>
+      <x>336</x>
       <y>768</y>
       <w>120</w>
       <h>156</h>
@@ -88,7 +88,7 @@ has v</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>516</x>
+      <x>384</x>
       <y>636</y>
       <w>84</w>
       <h>156</h>
@@ -102,7 +102,7 @@ has v</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>468</x>
+      <x>336</x>
       <y>48</y>
       <w>120</w>
       <h>108</h>
@@ -118,7 +118,7 @@ id
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>504</x>
+      <x>372</x>
       <y>144</y>
       <w>84</w>
       <h>156</h>
@@ -126,13 +126,13 @@ id
     <panel_attributes>lt=-
 m1=1
 m2=1
-has &gt;</panel_attributes>
+has v</panel_attributes>
     <additional_attributes>10.0;110.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>228</x>
+      <x>96</x>
       <y>48</y>
       <w>120</w>
       <h>108</h>
@@ -148,21 +148,22 @@ has &gt;</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>336</x>
+      <x>204</x>
       <y>72</y>
       <w>156</w>
       <h>60</h>
     </coordinates>
     <panel_attributes>lt=-
-m1=0..1
+m1=0..n
 m2=1
-has ^</panel_attributes>
+has &lt;
+</panel_attributes>
     <additional_attributes>10.0;20.0;110.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>216</x>
+      <x>84</x>
       <y>780</y>
       <w>120</w>
       <h>108</h>
@@ -178,7 +179,7 @@ id
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>264</x>
+      <x>132</x>
       <y>684</y>
       <w>84</w>
       <h>120</h>
@@ -192,7 +193,7 @@ has v</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>216</x>
+      <x>84</x>
       <y>588</y>
       <w>120</w>
       <h>108</h>
@@ -207,7 +208,7 @@ has v</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>132</x>
+      <x>0</x>
       <y>84</y>
       <w>120</w>
       <h>612</h>
@@ -221,7 +222,7 @@ equal</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>324</x>
+      <x>192</x>
       <y>636</y>
       <w>168</w>
       <h>228</h>
@@ -235,7 +236,7 @@ has v</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>276</x>
+      <x>144</x>
       <y>144</y>
       <w>240</w>
       <h>744</h>
@@ -249,7 +250,7 @@ has v</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>576</x>
+      <x>444</x>
       <y>84</y>
       <w>168</w>
       <h>804</h>
@@ -263,14 +264,14 @@ has ^</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>276</x>
+      <x>144</x>
       <y>876</y>
       <w>216</w>
       <h>72</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1
-m2=0..1
+m2=0..n
 has v</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;30.0;160.0;30.0</additional_attributes>
   </element>
